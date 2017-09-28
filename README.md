@@ -15,6 +15,6 @@ My Better Code Hub score:
 
 ![Alt text](https://github.com/RickBakker01/RickBakker-pset4/blob/master/docs/Screenshot_20170928-163939.jpg)
 
-![Alt text](https://github.com/RickBakker01/RickBakker-pset4/blob/master/docs/Screenshot_20170928-163013.jpg)
+![Alt text](https://github.com/RickBakker01/RickBakker-pset4/blob/master/docs/Screenshot_20170928-164013.jpg)
 
 ![Alt text](https://github.com/RickBakker01/RickBakker-pset4/blob/master/docs/Screenshot_20170928-163958.jpg)
